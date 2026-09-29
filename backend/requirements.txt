@@ -1,0 +1,9 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+aiosqlite
+pydantic-settings
+pydantic
+google-genai
+python-multipart
+thefuzz[speedup]
